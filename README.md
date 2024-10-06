@@ -24,7 +24,7 @@ Navigation Component: Manages navigation within the app.<br>
 | ![Home_Screen](https://github.com/user-attachments/assets/1fa6729a-fde0-4922-afe3-e87b5829abe7) | ![Detais_Screen](https://github.com/user-attachments/assets/44b8b283-c421-4891-9b28-fb99d0b78964) | ![Add_Todo_Screen](https://github.com/user-attachments/assets/08a5e51d-fc0e-40d5-973f-d267a73ddd8f) | ![Todo_Home_Screen](https://github.com/user-attachments/assets/65f7f683-cfc9-420b-9bfb-b1d9b3c63cb2) | ![Search_Todo_Screen](https://github.com/user-attachments/assets/d1e2e152-1322-46e1-87f1-38a92d71615b) |
 
 ## How to Run
-1. Clone the repository: git clone https://github.com/f4farhann/TODO-list-app.<br>
+1. Clone the repository: git clone https://github.com/saifu5121/To-Do-List-App<br>
 2. Open the project in Android Studio.<br>
 3. Build and run the app on an emulator or physical device.<br>
 
